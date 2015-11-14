@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Shopeek</string>
+
+    <string name="title_section1">Cari Toko</string>
+    <string name="title_section2">Daftar Toko</string>
+    <string name="title_section3">Peta Toko</string>
+    <string name="title_section4">Daftar Belanja</string>
+    <string name="title_section5">About</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- menu -->
+    <string name="action_settings">Setelan</string>
+    <string name="action_account">Akun</string>
+    <string name="action_about">Tentang</string>
+
+    <string name="title_activity_about">AboutActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_demo_collection">demo_collection</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="title_activity_fragment1">Fragment1</string>
+</resources>
